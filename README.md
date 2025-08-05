@@ -7,7 +7,7 @@ I'm a passionate developer with a strong background in building scalable web app
 ---
 
 ## 💬 Quote of the Day
-> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
+> "Code is not just lines on a screen — it's the bridge between imagination and reality."
 
 ---
 
